@@ -1,0 +1,189 @@
+boauser@sr9:~/msf4j-perf-client$ ./run-test-mem.sh http://204.13.85.2:8080/EchoService/echo
+Running test for: http://204.13.85.2:8080/EchoService/echo
+start concurrency 1 on Sun Feb 7 04:29:20 PST 2016
+Completed 500000 requests
+Completed 1000000 requests
+Completed 1500000 requests
+Completed 2000000 requests
+Completed 2500000 requests
+Completed 3000000 requests
+Completed 3500000 requests
+Completed 4000000 requests
+Completed 4500000 requests
+Completed 5000000 requests
+Finished 5000000 requests
+For concurrency level 1 -> 7375 req/sec
+Average for concurrency level 1 -> 7375 req/sec
+end concurrency 1 on Sun Feb 7 04:40:42 PST 2016
+start concurrency 25 on Sun Feb 7 04:40:42 PST 2016
+Completed 500000 requests
+Completed 1000000 requests
+Completed 1500000 requests
+Completed 2000000 requests
+Completed 2500000 requests
+Completed 3000000 requests
+Completed 3500000 requests
+Completed 4000000 requests
+Completed 4500000 requests
+Completed 5000000 requests
+Finished 5000000 requests
+For concurrency level 25 -> 97216 req/sec
+Average for concurrency level 25 -> 97216 req/sec
+end concurrency 25 on Sun Feb 7 04:41:38 PST 2016
+start concurrency 50 on Sun Feb 7 04:41:38 PST 2016
+Completed 500000 requests
+Completed 1000000 requests
+Completed 1500000 requests
+Completed 2000000 requests
+Completed 2500000 requests
+Completed 3000000 requests
+Completed 3500000 requests
+Completed 4000000 requests
+Completed 4500000 requests
+Completed 5000000 requests
+Finished 5000000 requests
+For concurrency level 50 -> 107300 req/sec
+Average for concurrency level 50 -> 107300 req/sec
+end concurrency 50 on Sun Feb 7 04:42:29 PST 2016
+start concurrency 100 on Sun Feb 7 04:42:29 PST 2016
+Completed 500000 requests
+Completed 1000000 requests
+Completed 1500000 requests
+Completed 2000000 requests
+Completed 2500000 requests
+Completed 3000000 requests
+Completed 3500000 requests
+Completed 4000000 requests
+Completed 4500000 requests
+Completed 5000000 requests
+Finished 5000000 requests
+For concurrency level 100 -> 97151 req/sec
+Average for concurrency level 100 -> 97151 req/sec
+end concurrency 100 on Sun Feb 7 04:43:25 PST 2016
+start concurrency 200 on Sun Feb 7 04:43:25 PST 2016
+Completed 500000 requests
+Completed 1000000 requests
+Completed 1500000 requests
+Completed 2000000 requests
+Completed 2500000 requests
+Completed 3000000 requests
+Completed 3500000 requests
+Completed 4000000 requests
+Completed 4500000 requests
+Completed 5000000 requests
+Finished 5000000 requests
+For concurrency level 200 -> 105261 req/sec
+Average for concurrency level 200 -> 105261 req/sec
+end concurrency 200 on Sun Feb 7 04:44:17 PST 2016
+start concurrency 400 on Sun Feb 7 04:44:17 PST 2016
+Completed 500000 requests
+Completed 1000000 requests
+Completed 1500000 requests
+Completed 2000000 requests
+Completed 2500000 requests
+Completed 3000000 requests
+Completed 3500000 requests
+Completed 4000000 requests
+Completed 4500000 requests
+Completed 5000000 requests
+Finished 5000000 requests
+For concurrency level 400 -> 105073 req/sec
+Average for concurrency level 400 -> 105073 req/sec
+end concurrency 400 on Sun Feb 7 04:45:09 PST 2016
+start concurrency 800 on Sun Feb 7 04:45:09 PST 2016
+Completed 500000 requests
+Completed 1000000 requests
+Completed 1500000 requests
+Completed 2000000 requests
+Completed 2500000 requests
+Completed 3000000 requests
+Completed 3500000 requests
+Completed 4000000 requests
+Completed 4500000 requests
+Completed 5000000 requests
+Finished 5000000 requests
+For concurrency level 800 -> 104086 req/sec
+Average for concurrency level 800 -> 104086 req/sec
+end concurrency 800 on Sun Feb 7 04:46:01 PST 2016
+start concurrency 1600 on Sun Feb 7 04:46:01 PST 2016
+Completed 500000 requests
+Completed 1000000 requests
+Completed 1500000 requests
+Completed 2000000 requests
+Completed 2500000 requests
+Completed 3000000 requests
+Completed 3500000 requests
+Completed 4000000 requests
+Completed 4500000 requests
+Completed 5000000 requests
+Finished 5000000 requests
+For concurrency level 1600 -> 96800 req/sec
+Average for concurrency level 1600 -> 96800 req/sec
+end concurrency 1600 on Sun Feb 7 04:46:58 PST 2016
+start concurrency 3200 on Sun Feb 7 04:46:58 PST 2016
+Completed 500000 requests
+Completed 1000000 requests
+Completed 1500000 requests
+Completed 2000000 requests
+Completed 2500000 requests
+Completed 3000000 requests
+Completed 3500000 requests
+Completed 4000000 requests
+Completed 4500000 requests
+Completed 5000000 requests
+Finished 5000000 requests
+For concurrency level 3200 -> 70620 req/sec
+Average for concurrency level 3200 -> 70620 req/sec
+end concurrency 3200 on Sun Feb 7 04:48:14 PST 2016
+start concurrency 6400 on Sun Feb 7 04:48:14 PST 2016
+Completed 500000 requests
+Completed 1000000 requests
+Completed 1500000 requests
+Completed 2000000 requests
+Completed 2500000 requests
+Completed 3000000 requests
+Completed 3500000 requests
+Completed 4000000 requests
+Completed 4500000 requests
+Completed 5000000 requests
+Finished 5000000 requests
+For concurrency level 6400 -> 81447 req/sec
+Average for concurrency level 6400 -> 81447 req/sec
+end concurrency 6400 on Sun Feb 7 04:49:21 PST 2016
+start concurrency 10000 on Sun Feb 7 04:49:21 PST 2016
+Completed 500000 requests
+Completed 1000000 requests
+Completed 1500000 requests
+Completed 2000000 requests
+Completed 2500000 requests
+Completed 3000000 requests
+Completed 3500000 requests
+Completed 4000000 requests
+Completed 4500000 requests
+Completed 5000000 requests
+Finished 5000000 requests
+For concurrency level 10000 -> 78160 req/sec
+Average for concurrency level 10000 -> 78160 req/sec
+end concurrency 10000 on Sun Feb 7 04:50:30 PST 2016
+
+=============================================
+= Throughtput Results req/sec =
+=============================================
+
+Concurrency levels
+1 25 50 100 200 400 800 1600 3200 6400 10000
+
+---------------------------------------------
+
+7375
+97216
+107300
+97151
+105261
+105073
+104086
+96800
+70620
+81447
+78160
+boauser@sr9:~/msf4j-perf-client$
